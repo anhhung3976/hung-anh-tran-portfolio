@@ -1,0 +1,111 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Certificates",
+  "Header.Item5": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
+
+  "Banner.Pretitle": "Greeting! My name is",
+  "Banner.Description": "I have <span class='underline'>5 years of experience</span> developing web application. I am committed to writing clean, reusable, and scalable code in <span class='underline'>Java</span> and <span class='underline'>TypeScript</span>, following coding best practices and development standards.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "In <span class='underline'>5 years of experience</span> I have covered many roles: <span class='underline'>Fullstack Developer</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>. I am driven by a passion for leveraging my knowledge to develop innovative solutions that tackle real-world challenges.",
+    "I specialize in improving systems, optimizing websites, standardizing best practices, and contributing valuable ideas to enhance the projects I work on.",
+    "I have trained and worked with a variety of technologies, including:"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Adnovum VN",
+      "Title": "Fullstack Developer",
+      "Date": "May 2023",
+      "Description": [
+        "Develop and fix the application’s defect based on requirements",
+        "Define coding convention and coding best practice",
+        "Reviewing code and mentoring junior members of the team to ensure code quality",
+        "Collaborate with the team leader to define and enhance code quality and code coverage, ensuring no major code smells and maintaining code coverage at 80% or above",
+        "Rewrite the application’s logic from Java 8 to TypeScript",
+        "Maintain application’s legacy system"
+      ]
+    },
+    {
+      "Tab": "MOMO",
+      "Title": "Software Developer",
+      "Date": "Apr 2022 - May 2023",
+      "Description": [
+        "Optimize system to handle huge traffic",
+        "Working as Backend Developer to develop, operate and maintain Momo’s airline ticketing/legacy system",
+        "Build and implement backend solutions for the Vietnam Airlines ticketing workflow",
+        "Refactor code from Vert.x to Spring"
+      ]
+    },
+    {
+      "Tab": "ELCA VN",
+      "Title": "Associate Software Developer",
+      "Date": "Sep 2020 - Apr 2022 ",
+      "Description": [
+        "Communicate with project manager to clarify and analyze the requirements",
+        "Responsible for general development solutions in VN side",
+        "Integrating project with AWS services",
+        "Design database schemas and implement both back-and front-end"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Gisselle",
+      "Description": "A centralized system built with <span class='underline'>Angular</span> and <span class='underline'>Spring</span> to manage and secure access to all partner applications and data, offering various authentication and authorization functions.",
+      "imgs": [
+        "assets/images/iam/iam.png"
+      ],
+      "Technologies": ["Spring", "Java", "Oracle", "Angular", "Typescript", "Flyway"]
+    }
+  ],
+
+  "OtherProjects.Title": "Certificates",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Oracle Certified Professional: Java SE 17 Developer",
+      "imgs": ["assets/images/hands-game.png"],
+      "image": ["assets/images/certificates/java-ocp-17.png"],
+      "ghLink": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=3AC1222628A080497CA0A8C4C152FAA870D662081CF7EE743830279B28D761C4",
+      "demoLink": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=3AC1222628A080497CA0A8C4C152FAA870D662081CF7EE743830279B28D761C4",
+      "Technologies": ["Oracle", "Java"]
+    },
+    {
+      "Title": "AWS Certified Developer – Associate",
+      "imgs": ["assets/images/countries-viewer.png"],
+      "image": ["assets/images/certificates/aws.png"],
+      "ghLink": "https://www.credly.com/badges/058be140-7911-4189-9680-26fac4ce23c7/linked_in_profile",
+      "demoLink": "https://www.credly.com/badges/058be140-7911-4189-9680-26fac4ce23c7/linked_in_profile",
+      "Technologies": ["Amazon Web Services", "Cloud"]
+    },
+    {
+      "Title": "Microsoft Certified: Azure Fundamentals",
+      "image": ["assets/images/certificates/azure.png"],
+      "ghLink": "https://learn.microsoft.com/api/credentials/share/en-us/HngAnhTrn-6300/A00F7C5D03CB3549?sharingId",
+      "demoLink": "https://learn.microsoft.com/api/credentials/share/en-us/HngAnhTrn-6300/A00F7C5D03CB3549?sharingId",
+      "Technologies": ["Azure", "Cloud"]
+    },
+    {
+      "Title": "Oracle Cloud Infrastructure 2024  Generative AI Certified Professional",
+      "image": ["assets/images/certificates/oracle-ai.png"],
+      "ghLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=A788058CBB2CBD0BD07F898B70FDA0CB909ED5EAA9E0371D391B8BAA14AE6E33",
+      "demoLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=A788058CBB2CBD0BD07F898B70FDA0CB909ED5EAA9E0371D391B8BAA14AE6E33",
+      "Technologies": ["Oracle", "AI"]
+    }
+  ],
+
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}
