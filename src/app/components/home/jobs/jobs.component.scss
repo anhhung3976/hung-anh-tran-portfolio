@@ -15,14 +15,14 @@
     }
 
     a.active{
-        background-color: $LightNavy !important;
+        background-color: $DescriptionBox !important;
         color: $Green !important;
         border-color: transparent !important;
         border-radius: 0px;
     }
     
     a:hover{
-        background-color: $LightNavy !important;
+        background-color: $DescriptionBox !important;
         color: $Green !important;
         border-color: transparent !important;
         border-radius: 0px;
@@ -57,7 +57,7 @@
         white-space: nowrap;
         font-family: $CodeFont;
         font-size: 13px;
-        color: $Slate;
+        color: $FontColorRoot;
     }
 
     li{
@@ -92,7 +92,7 @@
         -moz-letter-spacing: 0.05em;
         -ms-letter-spacing: 0.05em;
         letter-spacing: 0.05em;
-        color: $LightSlate;
+        color: $FontColorBox;
         margin-bottom: 30px;
     }
     

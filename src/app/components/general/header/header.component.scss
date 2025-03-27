@@ -1,17 +1,20 @@
 @import "./../../../../variables.scss";
 .main-navbar {
     height: 70px;
-    background: $Navy;
+    background: $BackgroundColor;
     font-family: $CodeFont;
-    .menu-ul{
-      li{
+    .menu-ul {
+      &.nav {
+       gap: 30px;
+      }
+      li {
         margin: 0px 13px;
       }
       // First and Last li has no margin
-      li:first-child{
+      li:first-child {
         margin-left: 0px;
       }
-      li:last-child{
+      li:last-child {
         margin-right: 0px;
       }
 
@@ -64,7 +67,7 @@
         -webkit-box-align: center;
         align-items: center;
         flex-direction: column;
-        background-color: $LightNavy;
+        background-color: $DescriptionBox;
         height: 100%;
         position: relative;
         right: -625px;
